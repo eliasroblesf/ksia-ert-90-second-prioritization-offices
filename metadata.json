@@ -1,0 +1,8 @@
+{
+  "name": "ksia-ert-90-second-prioritization-offices",
+  "description": "KSIA ERT 90-Second Prioritization - Airport Offices Emergency Drill Platform",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
